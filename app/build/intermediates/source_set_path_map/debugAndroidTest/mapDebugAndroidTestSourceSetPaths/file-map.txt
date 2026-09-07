@@ -1,5 +1,0 @@
-com.example.ch03.test.app-androidTest-0 D:\UPH\Semester 5\Mobile Development AKK 2439\Praktikum\Week 3\ch03_starter\ch03_starter\app\build\generated\res\resValues\androidTest\debug
-com.example.ch03.test.app-updated_navigation_xml-1 D:\UPH\Semester 5\Mobile Development AKK 2439\Praktikum\Week 3\ch03_starter\ch03_starter\app\build\generated\updated_navigation_xml\debugAndroidTest
-com.example.ch03.test.app-mergeDebugAndroidTestResources-2 D:\UPH\Semester 5\Mobile Development AKK 2439\Praktikum\Week 3\ch03_starter\ch03_starter\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.ch03.test.app-mergeDebugAndroidTestResources-3 D:\UPH\Semester 5\Mobile Development AKK 2439\Praktikum\Week 3\ch03_starter\ch03_starter\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.ch03.test.app-debugAndroidTest-4 D:\UPH\Semester 5\Mobile Development AKK 2439\Praktikum\Week 3\ch03_starter\ch03_starter\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
