@@ -55,7 +55,7 @@ fun ProfileScreen() {
                         .background(MaterialTheme.colorScheme.primary)
                 ) {
                     Text(
-                        text = "DH",
+                        text = "SR",
                         modifier = Modifier.align(Alignment.Center),
                         style = MaterialTheme.typography.headlineMedium,
                         color = MaterialTheme.colorScheme.onPrimary
@@ -63,12 +63,12 @@ fun ProfileScreen() {
                 }
                 Spacer(Modifier.height(12.dp))
                 Text(
-                    text = "Dr. David Hareva",
+                    text = "Sulaiman Rasyid Dinitra Aziz",
                     style = MaterialTheme.typography.titleLarge,
                     color = MaterialTheme.colorScheme.onPrimaryContainer
                 )
                 Text(
-                    text = "Dosen Teknik Informatika",
+                    text = "01085240014",
                     style = MaterialTheme.typography.bodyMedium,
                     color = MaterialTheme.colorScheme.onPrimaryContainer.copy(alpha = 0.7f)
                 )
@@ -82,9 +82,9 @@ fun ProfileScreen() {
                 .padding(horizontal = 16.dp),
             horizontalArrangement = Arrangement.SpaceEvenly
         ) {
-            StatItem(label = "Mahasiswa", value = "120")
-            StatItem(label = "Mata Kuliah", value = "4")
-            StatItem(label = "Publikasi", value = "23")
+            StatItem(label = "Mahasiswa", value = "99")
+            StatItem(label = "Mata Kuliah", value = "99")
+            StatItem(label = "Publikasi", value = "99")
         }
 
         Spacer(Modifier.height(24.dp))
@@ -92,8 +92,8 @@ fun ProfileScreen() {
         Spacer(Modifier.height(16.dp))
 
         listOf(
-            Icons.Default.Email to "david.hareva@university.ac.id",
-            Icons.Default.Phone to "+62 812 3456 7890",
+            Icons.Default.Email to "sulaimanrasyiddinitra7@gmail.com",
+            Icons.Default.Phone to "+62 858 1000 1496",
             Icons.Default.LocationOn to "Tangerang, Indonesia"
         ).forEach { (icon, text) ->
             InfoRow(icon = icon, text = text)

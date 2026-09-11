@@ -566,3 +566,16 @@ link repository atau commit melalui LMS sesuai instruksi dosen.
 
 Saat meminta bantuan, sertakan file yang sedang dikerjakan, `TODO` terakhir yang
 diganti, pesan error lengkap, dan hasil `./gradlew assembleDebug`.
+
+1. ngerjain security check mis bikin script automation < replicate ke semua server > done!
+2. call pak salim , make sure flow MIS pas operasional 
+
+======================================================
+3. edit tugas kotlin 
+4. lanjut jam dunia 
+5. check dicoding google ?
+
+U-02 ini jika dirubah, apa akan ngefek ke user baru atau user saat ini juga wajib merubah password nya ya?
+
+
+
